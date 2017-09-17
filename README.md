@@ -1,2 +1,3 @@
 # Hello-World
-first repository
+Hi Fellas,
+Abhi here. Trying to master this art and do it ASAP.
